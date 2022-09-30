@@ -1,5 +1,5 @@
 ## Reaction Timer
-created in Vue following https://youtu.be/bc6czIBLKTg?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1
+Created in Vue following The Net Ninja's tutorial at: https://youtu.be/bc6czIBLKTg?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1
 
 ## Project setup
 ```
